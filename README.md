@@ -9,7 +9,7 @@ Dependencies
 
  -  [HumusMvc](https://github.com/prolic/HumusMvc)
  -  [ZendFramework 2.x](https://github.com/zendframework/zf2)
- -  ZendFramework 1.12.x
+ -  [ZendFramework 1.12.x](http://framework.zend.com)
 
 Installation
 ------------
