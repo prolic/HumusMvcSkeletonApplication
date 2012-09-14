@@ -10,7 +10,7 @@
     "homepage": "https://github.com/prolic/HumusMvcSkeletonApplication/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework1": "1.11.*,1.12.*",
+        "zendframework/zendframework1": "1.12.*",
         "zendframework/zendframework": "2.*",
         "prolic/humus-mvc": "dev-master"
     },
