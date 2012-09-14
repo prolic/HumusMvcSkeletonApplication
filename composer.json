@@ -1,0 +1,28 @@
+{
+    "name": "prolic/humus-mvc-skeleton-application",
+    "description": "Skeleton Application for HumusMvc",
+    "keywords": [
+        "framework",
+        "humus",
+        "zf1",
+        "zf2"
+    ],
+    "homepage": "https://github.com/prolic/HumusMvcSkeletonApplication/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework1": "1.11.*,1.12.*",
+        "zendframework/zendframework": "2.*",
+        "prolic/humus-mvc": "dev-master"
+    },
+    "autoload": {
+        "classmap": [ "vendor/zendframework/zendframework1/library/", "vendor/zendframework/zendframework/library/" ]
+    },
+    "include-path": ["vendor/zendframework/zendframework1/library/Zend"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sascha-Oliver Prolic",
+            "email": "saschaprolic@googlemail.com"
+        }
+    ]
+}
