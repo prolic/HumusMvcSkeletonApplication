@@ -17,7 +17,7 @@
     "autoload": {
         "classmap": [ "vendor/zendframework/zendframework1/library/", "vendor/zendframework/zendframework/library/" ]
     },
-    "include-path": ["vendor/zendframework/zendframework1/library/Zend"],
+    "include-path": ["vendor/zendframework/zendframework1/library"],
     "license": "MIT",
     "authors": [
         {
