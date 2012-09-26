@@ -14,10 +14,6 @@
         "zendframework/zendframework": "2.*",
         "prolic/humus-mvc": "dev-master"
     },
-    "autoload": {
-        "classmap": [ "vendor/zendframework/zendframework1/library/", "vendor/zendframework/zendframework/library/" ]
-    },
-    "include-path": ["vendor/zendframework/zendframework1/library"],
     "license": "MIT",
     "authors": [
         {
