@@ -1,6 +1,9 @@
 HumusMvc SkeletonApplication
 ============================
 
+[![Dependency Status](https://www.versioneye.com/package/php:prolic:humus-mvc-skeleton-application/badge.png)](https://www.versioneye.com/package/php:prolic:humus-mvc-skeleton-application)
+[![Latest Stable Version](https://poser.pugx.org/prolic/humus-mvc-skeleton-application/v/stable.png)](https://packagist.org/packages/prolic/humus-mvc-skeleton-application)
+
 This is a simple, skeleton application using the Zf1 MVC layer and integrates ZF2's ModuleManager and ServiceManager.
 This application is meant to be used as a starting place for [HumusMvc](https://github.com/prolic/HumusMvc).
 
