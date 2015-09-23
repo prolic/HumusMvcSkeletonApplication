@@ -11,6 +11,8 @@ chdir(dirname(__DIR__));
  */
 include 'vendor/autoload.php';
 
+error_reporting(E_ALL & ~E_STRICT & ~E_NOTICE);
+
 /**
  * Run the application!
  */
